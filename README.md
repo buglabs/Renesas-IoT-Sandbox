@@ -44,9 +44,9 @@ Depending on the Renesas kit you are using, you will have a custom dashboard, li
 
 ## Supported Devices
 
-[Renesas RZ IoT kits](*renesas-rz-iot-kits)
+[Renesas RZ IoT kits](#renesas-rz-iot-kits)
 
-[Renesas Synergy Starter Kits](*renesas-synergy-starter-kit)
+[Renesas Synergy Starter Kits](#renesas-synergy-starter-kits)
 
 ### Renesas RZ IoT kits
 
@@ -72,10 +72,15 @@ Link to Stream-it QSG
 
 [Using the Renesas S5D9](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md)
 
-#### S7XX IoT Enabler
+#### SKS7 IoT Enabler
 
-Link to IoT Enabler docs
+[How to Update the SKS7 device](https://github.com/buglabs/Synergy-Starter-Kit/tree/master/Files/SKS7)
 
+##### Other Devices
+
+[RL78 Iot EnableR Kit](https://github.com/buglabs/iot-enabler-kit)
+
+Note: This kit works on the Bug Labs [freeboard server](https://freeboard.io)
 
 ## Using Freeboard
 
