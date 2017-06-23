@@ -27,8 +27,8 @@ Click "Try it now!"
 ## Supported Devices
 
 [Renesas RZ IoT kits](*renesas-rz-iot-kits)
-[Renesas Synergy Starter Kits](*renesas-synergy-starter-kit)
 
+[Renesas Synergy Starter Kits](*renesas-synergy-starter-kit)
 
 ### Renesas RZ IoT kits
 
@@ -48,7 +48,7 @@ Link to Stream-it QSG
 
 #### S3A7
 
-Link to S3 docs: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/S3A7/readme.md
+[Using the Renesas S3A7](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/S3A7/readme.md)
 
 #### S5D9
 
@@ -70,7 +70,7 @@ https://renesas.freeboard.io/signup
 
 ## Do More
 
-* Try the Cold Chain Demo: https://github.com/buglabs/Synergy-Starter-Kit/blob/master/Cold%20Chain/User%20Guide.md
+* Try the Cold Chain Demo: https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Cold%20Chain/User%20Guide.md
 * View the Data Monitoring API documentation: https://renesas.dweet.io/play/
 * To learn more about the Renesas IoT Sandbox and to download documentation and source code for the kit, please visit www.renesas.com/iotsandbox
 
