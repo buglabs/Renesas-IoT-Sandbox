@@ -3,8 +3,6 @@
 # Powered by Bug Labs, Inc. 
 ## Using the Renesas IoT Sandbox - Data Monitoring
 
-Repository for the Renesas IoT Sandbox, Data Monitoring powered by Bug Labs Software, Code, and Guide.
-
 **Table of Contents** 
 - [Getting Started](#getting-started)
 - [Do More](#do-more)
