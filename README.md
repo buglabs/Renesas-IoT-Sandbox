@@ -7,9 +7,9 @@ Repository for the Renesas IoT Sandbox, Data Monitoring powered by Bug Labs Soft
 
 **Table of Contents** 
 - [Getting Started](#getting-started)
+- [Do More](#do-more)
 - [Supported Devices](#supported-devices)
 - [Using Freeboard](#using-freeboard)
-- [Do More](#do-more)
 - [Helpful Links](#helpful-links)
 
 ## Getting Started
@@ -23,6 +23,20 @@ Enter your "Thing Name" [from a supported device](#supported-devices).
 ### Step 2 
 
 Click "Try it now!"
+
+### Step 3
+
+Congratulations! You can now monitor your data in real-time. 
+
+Depending on the Renesas kit you are using, you will have a custom dashboard, like below:
+
+![dash2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/dash2.PNG)
+
+## Do More
+
+* [View the Data Monitoring API documentation](https://renesas.dweet.io/play/)
+* [Learn more about the Renesas IoT Sandbox and download documentation and source code for the kit](https://www.renesas.com/iotsandbox)
+* [Try the Cold Chain Demo](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Cold%20Chain/User%20Guide.md) 
 
 ## Supported Devices
 
@@ -52,27 +66,21 @@ Link to Stream-it QSG
 
 #### S5D9
 
-Link to S5 Docs
+[Using the Renesas S5D9](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md)
 
 #### S7XX IoT Enabler
 
 Link to IoT Enabler docs
 
-//
+
 ## Using Freeboard
 
 [Freeboard](https://freeboard.io) is a web-based visualization tool used for displaying and interacting with data. [Freeboard](https://freeboard.io) is open-source and fully-customizable, allowing the user to create rich Internet of Things applications.
 
-Sign up for a Renesas Freeboard account to do more:
-https://renesas.freeboard.io/signup
-//
+[Customize your dashboard](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md#using-freeboard)
 
+[Sign up for a Renesas Freeboard account to do more](https://renesas.freeboard.io/signup)
 
-## Do More
-
-* Try the Cold Chain Demo: https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Cold%20Chain/User%20Guide.md
-* View the Data Monitoring API documentation: https://renesas.dweet.io/play/
-* To learn more about the Renesas IoT Sandbox and to download documentation and source code for the kit, please visit www.renesas.com/iotsandbox
 
 ## Helpful Links
 
