@@ -34,9 +34,13 @@ Depending on the Renesas kit you are using, you will have a custom dashboard, li
 
 ## Do More
 
-* [View the Data Monitoring API documentation](https://renesas.dweet.io/play/)
-* [Learn more about the Renesas IoT Sandbox and download documentation and source code for the kit](https://www.renesas.com/iotsandbox)
-* [Try the Cold Chain Demo](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Cold%20Chain/User%20Guide.md) 
+[Customize your dashboard](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md#using-freeboard)
+
+[View the Data Monitoring API documentation](https://renesas.dweet.io/play/)
+
+[Learn more about the Renesas IoT Sandbox and download documentation and source code for the kit](https://www.renesas.com/iotsandbox)
+
+[Try the Cold Chain Demo](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Cold%20Chain/User%20Guide.md) 
 
 ## Supported Devices
 
@@ -84,15 +88,16 @@ Link to IoT Enabler docs
 
 ## Helpful Links
 
-* [Support for the Renesas IoT kits](http://renesasrulz.com/iot/)
-* [Freeboard Open Source Repo](https://github.com/Freeboard/freeboard)
-* [DweetPro Production ready APIs and UI](https://dweetpro.io)
-* [Data Monitoring developer area](https://renesas.dweet.io/) 
+[Support for the Renesas IoT kits](http://renesasrulz.com/iot/)
+
+[Freeboard Open Source Repo](https://github.com/Freeboard/freeboard)
+
+[DweetPro Production ready APIs and UI](https://dweetpro.io)
+
+[Data Monitoring developer area](https://renesas.dweet.io/) 
 
 
 ## Notes
-
-<a name="myfootnote1">1</a>: USB and Ethernet cables are not included.
 
 
 ![BUG logo gif](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/BUG_logo_gif.gif)
