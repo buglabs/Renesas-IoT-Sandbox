@@ -16,7 +16,7 @@ Repository for the Renesas IoT Sandbox, Data Monitoring powered by Bug Labs Soft
 
 ### Step 1 
 
-Enter your Thing-Name [from a supported device](#supported-devices).
+Enter your "Thing Name" [from a supported device](#supported-devices).
 
 ![RIS entry](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/RIS%20entry.PNG)
 
