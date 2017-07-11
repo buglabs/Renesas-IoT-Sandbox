@@ -32,7 +32,7 @@ Depending on the Renesas kit you are using, you will have a custom dashboard, li
 
 ## Do More
 
-[Customize your dashboard](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md#using-freeboard)
+[Customize your dashboard](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/README.md#using-freeboard)
 
 [View the Data Monitoring API documentation](https://renesas.dweet.io/play/)
 
@@ -48,15 +48,15 @@ Depending on the Renesas kit you are using, you will have a custom dashboard, li
 
 ### Renesas RZ IoT kits
 
-Link to QSG for RZ or RZ Renesas links 
+[Quick Start Guide for the Renesas RZ kits](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/README.md)
 
 #### PEACHY
 
-Link to Peachy QSG
+[Quick Start Guide for the GR-Peachy Streaming kit](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/GR-Peach/Quick%20Start%20Guide.md)
 
 #### STREAM-IT
 
-Link to Stream-it QSG
+[Quick Start Guide for the Renesas Stream It! kit](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/Stream-It/Quick%20Start%20Guide.md)
 
 ### Renesas Synergy Starter Kits
 
@@ -68,7 +68,7 @@ Link to Stream-it QSG
 
 #### S5D9
 
-[Using the Renesas S5D9](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md)
+[Using the Renesas S5D9](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/README.md)
 
 #### SKS7 IoT Enabler
 
@@ -84,7 +84,7 @@ Note: This kit works on the Bug Labs [freeboard server](https://freeboard.io)
 
 [Freeboard](https://freeboard.io) is a web-based visualization tool used for displaying and interacting with data. [Freeboard](https://freeboard.io) is open-source and fully-customizable, allowing the user to create rich Internet of Things applications.
 
-[Customize your dashboard](https://github.com/buglabs/Synergy-Starter-Kit/blob/master/README.md#using-freeboard)
+[Customize your dashboard](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/README.md#using-freeboard)
 
 [Sign up for a Renesas Freeboard account to do more](https://renesas.freeboard.io/signup)
 
